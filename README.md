@@ -1,4 +1,4 @@
-# deepforest-mycology
+# mushroom-classification-with-efficientnet-and-random-forest
 
 English version:
 
